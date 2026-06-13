@@ -78,7 +78,7 @@ public class Day7 {
         }
     }*/
 
-public class day8 {
+/*public class day8 {
 
     interface Employee {
         String Name();
@@ -149,6 +149,18 @@ public class day8 {
         System.out.println("Salary : " + checking.Salary());
         checking.work();
     }
+}*/
+public class day8 {
+    record courseRecord(String courseName, String department) {
+    }
+    static void main(){
+        courseRecord courseRecord=new courseRecord("java","BSC CS");
+        System.out.println(courseRecord.courseName());
+        System.out.println(courseRecord.department());
+
+    }
 }
+
+
 
 
