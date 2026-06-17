@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+/*import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 import java.util.ArrayList;
@@ -92,7 +92,7 @@ class Student{
     }
 }*/
 
-import java.util.LinkedList;
+/*import java.util.LinkedList;
 class Student{
     String name;
     int regno;
@@ -138,9 +138,11 @@ public class day10 {
 
         }
     }
+}*/
+
+public class day10 {
+
 }
-
-
 
 
 
