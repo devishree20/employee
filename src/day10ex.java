@@ -1,7 +1,6 @@
-public class day10ex {
+/*public class day10ex {
 
-    static void main(){
-        String name=null;
+    static void main()String name=null;
         try{
             System.out.println(name.charAt(0));
             System.out.println(50/0);
@@ -12,8 +11,7 @@ public class day10ex {
         catch (ArrayIndexOutOfBoundsException e){
             System.out.println("ArrayIndexOutOfBounds");
         }
-        System.out.println("Array index");
+        System.out.println("Array index" +"");
 
     }
-}
-
+}*/
